@@ -1,4 +1,4 @@
-# Use the power of pandas to manage the files on your Android device
+# List files recursively
 
 ```python
 pip install list-all-files-recursively
